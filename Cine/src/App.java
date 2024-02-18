@@ -115,7 +115,7 @@ public class App {
 			}
 
 		} while (opcion != 5);
-		System.out.println("Gracias por usar la App");
+		System.out.println("Gracias por usar la Aplicacion");
 
 	}
 }
